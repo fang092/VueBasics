@@ -1,0 +1,48 @@
+{
+    "assignments":[
+        {
+             "name": "Read Next Chapter",
+             "complete":false,
+             "id":1,
+             "tag":"Reading"
+        },
+        {
+            "name": "Draw Chapter 1",
+            "complete":false,
+            "id":1,
+            "tag":"Art"
+       },
+       {
+            "name": "Make Initial Hypothesis",
+            "complete":false,
+            "id":1,
+            "tag":"Science"
+        },
+        {
+            "name": "Buy New Calculater",
+            "complete":false,
+            "id":1,
+            "tag":"Math"
+        },
+        { 
+            "name": "Read Chapter", 
+            "complete":false, 
+            "id":1, 
+            "tag":"Math"
+        },
+        { 
+            "name": "Turn in homework", 
+            "complete":false,
+            "id":2, 
+            "tag": "Reading" 
+        },
+        { 
+            "name": "Finsh drawing chapter", 
+            "complete":false,
+            "id":3, 
+            "tag":"Science"
+        }
+
+
+    ]
+}
